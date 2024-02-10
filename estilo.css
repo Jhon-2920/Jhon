@@ -1,0 +1,165 @@
+body{
+    margin:0;
+    font-family: tahoma;
+    text-align: center;
+}
+
+.imobiliaria{
+    text-align: center;
+    margin-bottom:20px;
+    background-color: #a4e1fd;
+    height: 200px;
+    padding: 15px;
+}
+
+.logo{
+    width: 120px;
+}
+
+.imobiliaria a {
+    margin: 10px;
+    color:black;
+}
+
+.banner{
+    margin:10px;
+}
+
+.secao-sobre h3{
+    color: #1c81c0;
+    font-weight: normal;
+    margin:10px;
+}
+
+.secao-sobre h2{
+    margin:0;
+    font-size: 25px;
+}
+
+.imovel-assinatura{
+    width: 400px;
+}
+
+div .secao-sobre{
+    width: 700px;
+    text-align: center;
+}
+
+.secao-sobre p{
+    width: 980px;
+    text-align:justify;
+    margin:10px auto;
+    font-size: 18px;
+}
+
+.secao-servicos .secao-contato{
+    background-color: #1678b4;
+    
+}
+
+.secao-servicos h2{
+    padding: 20px 0;
+    color: white;
+    font-weight: bold;    
+}
+
+.secao-servicos, .secao-contato{
+    background-color: #1678b4;
+
+}
+
+.secao-servicos p{
+    width: 700px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    margin:10px auto;
+    line-height: 35px;
+    padding: 5px;
+}
+
+.secao-servicos .lista{
+    width: 135px;
+    margin: 40px auto 40px;
+    padding: 10px;
+    padding-bottom: 60px;
+    line-height: 35px;
+}
+
+.secao-servicos .item-lista{
+    font-size: 20px;
+    line-height: 35px;
+    text-align: left;
+    color:#fff;
+    padding: 5px;
+}
+
+.secao-corretores h2{
+    color: #1678b4;
+    margin-top:30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.corretores{
+    width: 350px;
+}
+
+.secao-corretores p{
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    margin: 10px auto;
+    line-height: 28px;
+}
+
+.secao-contato{
+    margin:0 auto;
+    padding: 20px;
+}
+
+.secao-contato h2{
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+iframe{
+    width: 920px;
+    height: 350px;
+}
+
+.secao-contato .paragrafo{
+    color: #fff;
+    background-color: #1d1d1d;
+    margin: 20px auto;
+    padding: 15px 5px;
+    width: 920px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.escritorio{
+    width: 250px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.escritorio-contato{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.escritorio-link{
+    border-radius: 5px;
+    background-color: #fff;
+    margin: 10px;
+    padding: 2px;
+}
+
+.azul{
+    color: #097dc5;
+}
+
+.amarelo{
+    color: yellow;
+}

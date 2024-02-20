@@ -2,8 +2,6 @@ body{
     margin:0;
     font-family: tahoma;
     text-align: center;
-    min-width: 1080px;
-    
 }
 
 .imobiliaria{
@@ -25,6 +23,9 @@ body{
 
 .banner{
     margin:10px;
+    width: 100%;
+    max-width: 1080px;
+    min-width: 500px;
 }
 
 .secao-sobre h3{
@@ -165,5 +166,10 @@ iframe{
 
 .amarelo{
     color: yellow;
+}
+
+.tudo{
+    width: 100%;
+    min-width: 500px;
 }
 

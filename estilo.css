@@ -2,6 +2,8 @@ body{
     margin:0;
     font-family: tahoma;
     text-align: center;
+    min-width: 1080px;
+    
 }
 
 .imobiliaria{
@@ -40,9 +42,10 @@ body{
     width: 400px;
 }
 
-div .secao-sobre{
+ .secao-sobre{
     width: 700px;
     text-align: center;
+    margin: 0 auto;
 }
 
 .secao-sobre p{
@@ -163,3 +166,4 @@ iframe{
 .amarelo{
     color: yellow;
 }
+
